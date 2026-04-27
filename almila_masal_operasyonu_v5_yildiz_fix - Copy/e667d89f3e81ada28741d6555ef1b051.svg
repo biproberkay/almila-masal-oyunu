@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="110" viewBox="0 0 90 110">
+<circle cx="45" cy="28" r="24" fill="#ffd1a3"/><path d="M24 25 Q45 0 67 25 L67 38 Q45 22 24 38 Z" fill="#5b321c"/>
+<rect x="26" y="54" width="38" height="40" rx="12" fill="#ff6fb1"/><circle cx="36" cy="27" r="3"/><circle cx="54" cy="27" r="3"/>
+<path d="M35 39 Q45 47 56 39" stroke="#8a3a2a" stroke-width="3" fill="none"/><text x="9" y="106" font-size="13" font-family="Arial">ALMILA</text>
+</svg>

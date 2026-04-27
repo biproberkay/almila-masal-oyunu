@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360">
+<rect width="480" height="360" fill="#17133f"/>
+<text x="18" y="34" font-family="Arial" font-size="24" font-weight="bold" fill="white">2 - Uzay</text>
+<circle cx="392" cy="84" r="38" fill="#cfd7ff"/><circle cx="92" cy="90" r="3" fill="white"/><circle cx="185" cy="55" r="2" fill="white"/><circle cx="310" cy="150" r="3" fill="white"/><rect x="0" y="305" width="480" height="55" fill="#554e83"/><text x="115" y="330" font-family="Arial" font-size="18" fill="#fff">Uzay yıldızlarını yakala!</text>
+</svg>
