@@ -1,68 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 320" width="220" height="320">
   <title>Almila Magic Sprite</title>
   <desc>Scratch için Almila fotoğrafından ilham alan çizgi karakter sprite: güneş gözlüğü, beyaz yelek, pembe pantolon ve yıldızlı değnek.</desc>
-
-  <!-- Shadow -->
   <ellipse cx="110" cy="302" rx="54" ry="10" fill="#000" opacity="0.16"/>
-
-  <!-- Wand behind hand -->
   <g id="wand" transform="rotate(-22 85 142)">
     <rect x="80" y="92" width="7" height="138" rx="3.5" fill="#b9b9c4" stroke="#6d6d78" stroke-width="2"/>
     <path d="M83.5 82 L90 96 L105 95 L94 105 L99 120 L83.5 112 L68 120 L73 105 L62 95 L77 96 Z" fill="#f5f7ff" stroke="#6d6d78" stroke-width="3"/>
     <path d="M83.5 87 L87 97 L97 97 L89 103 L92 113 L83.5 108 L75 113 L78 103 L70 97 L80 97 Z" fill="#d7ecff" opacity="0.9"/>
   </g>
-
-  <!-- Legs -->
   <path d="M80 176 C73 214 67 248 59 291 L86 292 C91 252 96 223 106 186 Z" fill="#ee55b9" stroke="#9a3176" stroke-width="3"/>
   <path d="M121 184 C129 219 138 250 146 291 L174 291 C166 247 159 213 148 177 Z" fill="#ec4fb3" stroke="#9a3176" stroke-width="3"/>
   <path d="M62 288 C53 293 50 299 61 303 L89 303 C96 299 93 291 85 288 Z" fill="#7ac7d8" stroke="#3d7f92" stroke-width="3"/>
   <path d="M147 288 C139 293 137 300 148 303 L177 303 C184 299 181 291 173 288 Z" fill="#7ac7d8" stroke="#3d7f92" stroke-width="3"/>
-
-  <!-- Body / vest -->
   <path d="M67 112 C59 136 61 162 75 185 C96 197 130 197 153 184 C165 158 161 130 151 112 C129 101 91 101 67 112 Z" fill="#f3eff6" stroke="#b9b0c1" stroke-width="4"/>
   <path d="M84 115 C83 137 84 161 92 190" fill="none" stroke="#d5cbd8" stroke-width="4"/>
   <path d="M136 115 C137 137 136 161 128 190" fill="none" stroke="#d5cbd8" stroke-width="4"/>
   <rect x="105" y="113" width="9" height="75" rx="4" fill="#c7c0ca"/>
   <circle cx="110" cy="146" r="5" fill="#7bd4ef" stroke="#4a8fa1" stroke-width="2"/>
-
-  <!-- Arms -->
   <path d="M68 122 C47 135 38 153 44 169 C48 180 61 176 62 165 C64 151 72 144 82 137 Z" fill="#f3c5d8" stroke="#9d6d7d" stroke-width="3"/>
   <path d="M150 123 C169 136 175 154 166 169 C160 179 148 173 150 162 C151 149 144 141 135 136 Z" fill="#f3c5d8" stroke="#9d6d7d" stroke-width="3"/>
   <circle cx="48" cy="168" r="10" fill="#f1c0d1" stroke="#9d6d7d" stroke-width="3"/>
   <circle cx="159" cy="168" r="10" fill="#f1c0d1" stroke="#9d6d7d" stroke-width="3"/>
-
-  <!-- Neck -->
   <rect x="97" y="89" width="28" height="30" rx="12" fill="#f0bdc8" stroke="#9d6d7d" stroke-width="3"/>
-
-  <!-- Hair back -->
   <path d="M61 73 C62 34 86 14 113 16 C148 18 167 46 163 88 C162 124 151 148 132 159 C137 134 132 111 123 94 C105 111 82 112 68 98 C66 121 69 139 77 158 C61 144 52 113 61 73 Z" fill="#5b382d" stroke="#2d1b17" stroke-width="4"/>
   <path d="M74 53 C86 27 118 18 144 42" fill="none" stroke="#8b5d4b" stroke-width="5" opacity="0.7"/>
   <path d="M69 85 C83 95 104 91 124 70" fill="none" stroke="#8b5d4b" stroke-width="5" opacity="0.65"/>
-
-  <!-- Face -->
   <ellipse cx="112" cy="76" rx="44" ry="46" fill="#f2c1cc" stroke="#9d6d7d" stroke-width="4"/>
-
-  <!-- Sunglasses -->
   <path d="M74 68 C83 61 100 62 106 69 C108 84 98 93 84 88 C75 85 70 77 74 68 Z" fill="#11131a" stroke="#30333c" stroke-width="3"/>
   <path d="M116 69 C123 61 141 61 149 69 C153 79 146 88 134 90 C121 92 114 83 116 69 Z" fill="#11131a" stroke="#30333c" stroke-width="3"/>
   <rect x="105" y="72" width="13" height="5" rx="2" fill="#30333c"/>
   <path d="M84 66 C91 64 96 65 100 69" stroke="#fff" stroke-width="3" opacity="0.35" fill="none"/>
   <path d="M126 66 C134 64 140 65 145 69" stroke="#fff" stroke-width="3" opacity="0.35" fill="none"/>
-
-  <!-- Smile -->
   <path d="M97 101 C106 111 121 111 130 101" fill="none" stroke="#7d3548" stroke-width="4" stroke-linecap="round"/>
   <circle cx="90" cy="96" r="5" fill="#e99bad" opacity="0.65"/>
   <circle cx="136" cy="96" r="5" fill="#e99bad" opacity="0.65"/>
-
-  <!-- Hair front strands -->
   <path d="M79 43 C68 57 65 83 70 105" fill="none" stroke="#3b241e" stroke-width="7" stroke-linecap="round"/>
   <path d="M145 43 C158 61 157 88 149 112" fill="none" stroke="#3b241e" stroke-width="7" stroke-linecap="round"/>
   <path d="M112 21 C102 39 98 57 100 72" fill="none" stroke="#6b4638" stroke-width="6" stroke-linecap="round"/>
-
-  <!-- Game-friendly outline sparkle -->
-  <g opacity="0.95">
-    <circle cx="39" cy="83" r="4" fill="#fff6a6"/>
-    <circle cx="181" cy="107" r="3" fill="#fff6a6"/>
-    <path d="M185 63 l4 9 l9 4 l-9 4 l-4 9 l-4 -9 l-9 -4 l9 -4 z" fill="#fff6a6" stroke="#d0a92b" stroke-width="1.5"/>
-  </g>
+  <circle cx="39" cy="83" r="4" fill="#fff6a6"/>
+  <circle cx="181" cy="107" r="3" fill="#fff6a6"/>
+  <path d="M185 63 l4 9 l9 4 l-9 4 l-4 9 l-4 -9 l-9 -4 l9 -4 z" fill="#fff6a6" stroke="#d0a92b" stroke-width="1.5"/>
 </svg>
